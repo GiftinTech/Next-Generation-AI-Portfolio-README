@@ -51,6 +51,7 @@ Check out the next gen AI portfolio: https://ai-portfolio-project.netlify.app/
 - [Framer Motion](https://www.framer.com/motion/)
 - [Three.js](https://threejs.org/) + [@react-three/fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) (3D animation in hero and 404)
 - [@react-three/drei](https://docs.pmnd.rs/react-three-drei/introduction) (3D animation in hero)
+- [GitHub API](https://github.com/) (for fetching projects from my GitHub repos to projects section)
 - [Supabase](https://supabase.com/) (for embeddings storage)
 - [HuggingFace Inference API](https://huggingface.co/inference-api) (for chatbot)
 - [Gemini API](https://ai.google.dev/gemini-api/docs) (for resume summarization)
